@@ -2,29 +2,29 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"null",
+      "select_backup_ads":"IRON",
       "main_ads_banner": "ca-app-pub-7691534248804171/6093112314",
       "main_ads_intertitial":"ca-app-pub-7691534248804171/1116241822",
       "main_ads_natives":"",
       "main_ads_rewards":"",
       "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
+      "backup_ads_banner":"DefaultBanner",
+      "backup_ads_intertitial":"DefaultInterstitial",
       "backup_ads_rewards":"",
       "open_ads_admob":"ca-app-pub-7691534248804171/7855134862",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"1",
-      "interval_intertitial": 4,
+      "interval_intertitial": 3,
       "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk_backup_ads":"15adc1d0d",
       "high_paying_keyword_1": "Tokopedia",
       "high_paying_keyword_2": "Pengacara",
       "high_paying_keyword_3": "Shopee",
       "high_paying_keyword_4": "Gojek",
       "high_paying_keyword_5": "Grab",
       "status_app": "0",
-      "link_redirect": "15adc1d0d--https://"
+      "link_redirect": "--https://"
     }
   ],
   "Categories": [
