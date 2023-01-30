@@ -1,4 +1,5 @@
-{"Ads": [
+{
+"Ads": [
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"null",
