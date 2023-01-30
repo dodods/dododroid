@@ -1,0 +1,338 @@
+{"Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+     "Categories": [
+     {
+         "category":"Twibbon Ramadhan",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/ramadhan002.png"
+      },
+	  {
+         "category":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2001.png"
+      }
+  ],
+
+  "Item": [
+    {
+         "id":1,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2001.png"
+      },
+      {
+         "id":2,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2002.png"
+      },
+      {
+         "id":3,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2003.png"
+      },
+      {
+         "id":4,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2004.png"
+      },
+      {
+         "id":5,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2005.png"
+      },
+      {
+         "id":6,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2006.png"
+      },
+      {
+         "id":7,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2007.png"
+      },
+      {
+         "id":8,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2008.png"
+      },
+      {
+         "id":9,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2009.png"
+      },
+      {
+         "id":10,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2010.png"
+      },
+      {
+         "id":11,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2011.png"
+      },
+      {
+         "id":12,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2012.png"
+      },
+      {
+         "id":13,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2013.png"
+      },
+      {
+         "id":14,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2014.png"
+      },
+      {
+         "id":15,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2015.png"
+      },
+      {
+         "id":16,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2016.png"
+      },
+      {
+         "id":17,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2017.png"
+      },
+      {
+         "id":18,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2018.png"
+      },
+      {
+         "id":19,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2019.png"
+      },
+      {
+         "id":20,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2020.png"
+      },
+      {
+         "id":21,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2021.png"
+      },
+      {
+         "id":22,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2022.png"
+      },
+      {
+         "id":23,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2023.png"
+      },
+      {
+         "id":24,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2024.png"
+      },
+      {
+         "id":25,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2025.png"
+      },
+      {
+         "id":26,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2026.png"
+      },
+      {
+         "id":27,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2027.png"
+      },
+      {
+         "id":28,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2028.png"
+      },
+      {
+         "id":29,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2029.png"
+      },
+      {
+         "id":30,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2030.png"
+      },
+      {
+         "id":31,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2031.png"
+      },
+      {
+         "id":32,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2032.png"
+      },
+      {
+         "id":33,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2033.png"
+      },
+      {
+         "id":34,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2034.png"
+      },
+      {
+         "id":35,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2035.png"
+      },
+      {
+         "id":36,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2036.png"
+      },
+      {
+         "id":37,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2037.png"
+      },
+      {
+         "id":38,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2038.png"
+      },
+      {
+         "id":39,
+         "category":"Twibbon Idul Fitri",
+         "title":"Twibbon Idul Fitri",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/idulfitri2039.png"
+      },
+      {
+         "id":40,
+         "category":"Twibbon Ramadhan",
+         "title":"Twibbon Ramadhan",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/ramadhan001.png"
+      },
+      {
+         "id":41,
+         "category":"Twibbon Ramadhan",
+         "title":"Twibbon Ramadhan",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/ramadhan002.png"
+      },
+      {
+         "id":42,
+         "category":"Twibbon Ramadhan",
+         "title":"Twibbon Ramadhan",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/ramadhan003.png"
+      },
+      {
+         "id":43,
+         "category":"Twibbon Ramadhan",
+         "title":"Twibbon Ramadhan",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/ramadhan004.png"
+      },
+      {
+         "id":44,
+         "category":"Twibbon Ramadhan",
+         "title":"Twibbon Ramadhan",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/ramadhan005.png"
+      },
+      {
+         "id":45,
+         "category":"Twibbon Ramadhan",
+         "title":"Twibbon Ramadhan",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/ramadhan006.png"
+      },
+      {
+         "id":46,
+         "category":"Twibbon Ramadhan",
+         "title":"Twibbon Ramadhan",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/ramadhan007.png"
+      },
+      {
+         "id":47,
+         "category":"Twibbon Ramadhan",
+         "title":"Twibbon Ramadhan",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/ramadhan008.png"
+      },
+      {
+         "id":48,
+         "category":"Twibbon Ramadhan",
+         "title":"Twibbon Ramadhan",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/ramadhan009.png"
+      },
+      {
+         "id":49,
+         "category":"Twibbon Ramadhan",
+         "title":"Twibbon Ramadhan",
+         "image_link":"https://dododroid.files.wordpress.com/2023/01/ramadhan010.png"
+      }
+
+
+  ]
+}
