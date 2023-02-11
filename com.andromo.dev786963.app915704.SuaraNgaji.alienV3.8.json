@@ -1,0 +1,240 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"null",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "image": "file:///android_asset/image/icon.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "Abasa",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/abasa.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "Adh Dhuha",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/adhdhuha.mp3",
+      "lyrics": "" },
+    {
+      "id": 3,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "Al Fatihah",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/alfatihah.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "Al Humazah",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/alhumazah.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 5,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "Ali Imran",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/aliimran.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 6,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "Al Insan",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/alinsan.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "Al Jin",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/aljin.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "Al Kahfi",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/alkahfi.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "Al Maarij",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/almaaarij.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "Al Mulk",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/almulk.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "Al Mursalat",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/almursalat.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "AL Muzammil",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/almuzzammil.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "Al Qiyamah",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/alqiyamah.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "Al Waqiah",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/alwaqiahfull.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "An Naba",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/annaba.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "Ar Rahman",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/arrahman.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "As Syura",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/assyura.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "Ibrahim",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/ibrahim.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "Luqman",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/luqman.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "Maryam",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/maryam.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "Nuh",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/nuh.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "Qaf",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/qaf.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "Yusuf",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/yusuf.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 24,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "Al Baqarah",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/yusuf.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 25,
+      "name_category": "Suara Ngaji Al Quran Merdu",
+      "title": "Ar Rahman",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/yusuf.mp3",
+      "lyrics": ""
+    }
+  ]
+}
