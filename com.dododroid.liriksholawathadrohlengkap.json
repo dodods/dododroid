@@ -3,11 +3,11 @@
 "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"IRON",
+      "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "ca-app-pub-7691534248804171/3148254622",
       "main_ads_intertitial":"ca-app-pub-7691534248804171/3808493934",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
+      "backup_ads_banner":"29ea81f9fe783951",
+      "backup_ads_intertitial":"cb18aadca8af831a",
       "interval_intertitial": 2,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"177c976cd",
@@ -16,7 +16,7 @@
       "high_paying_keyword_2": "Pengacara",
       "high_paying_keyword_3": "Shopee",
       "high_paying_keyword_4": "Gojek",
-      "high_paying_keyword_5": "Grab",
+      "high_paying_keyword_5": "Grab Open Max 1f7ed2b5c378e6f8",
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/developer?id="
     }
