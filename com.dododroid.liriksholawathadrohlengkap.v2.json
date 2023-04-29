@@ -20,7 +20,7 @@
    ],
    "menus": [
       {
-         "name": "Home",
+         "name": "Lirik Sholawat",
          "type": "url",
          "icon": "https://raw.githubusercontent.com/dodods/dododroidhtml/main/dododroidsholawat.jpg",
          "url": "https://htmlpreview.github.io/?raw.githubusercontent.com/dodods/dododroidhtml/main/index.html",
