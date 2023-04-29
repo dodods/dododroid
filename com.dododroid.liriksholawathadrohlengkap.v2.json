@@ -25,7 +25,7 @@
          "icon": "https://raw.githubusercontent.com/dodods/dododroidhtml/main/dododroidsholawat.jpg",
          "url": "https://htmlpreview.github.io/?raw.githubusercontent.com/dodods/dododroidhtml/main/index.html",
          "url_dark": "",
-         "toolbar": false
+         "toolbar": true
       }
    ],
    "ads": [
